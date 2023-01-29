@@ -1,0 +1,39 @@
+.chatPage{
+    background-color: rgb(31, 29, 29);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chatContainer{
+    background-color: white;
+   
+    border-radius: 10px;
+}
+
+
+
+
+
+.chatBox{
+
+ height: 90%;
+ box-sizing: border-box;
+ 
+}
+
+.inputBox{
+    
+    height: 15%;
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+}
+
+
+
+
+
+
